@@ -1,0 +1,20 @@
+# Environment variables & secrets (CRITICAL)
+.env
+*.env
+
+# SQLite databases & logs
+*.db
+*.db-journal
+*.log
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
