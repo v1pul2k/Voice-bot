@@ -1,4 +1,4 @@
-# SquadStack Voice AI: Conversational Sales Agent & Evaluation Harness
+#  Conversational Sales Agent & Evaluation Harness
 
 A production-grade **Voice-First Conversational Agent and Diagnostic Evaluation Platform** designed specifically around the requirements of **SquadStack.ai** (high-concurrency outbound consumer sales in India, e.g., AngelOne, Swiggy, PhonePe).
 
